@@ -30,7 +30,7 @@
 ## 3. 프로젝트 내 역할 : 펌웨어 개발/ 임베디드 개발
 
     - 2개의 3-Axis manipulator 3D 기구 설계 및 제어를 통한 꺽기 및 뒤집기 동작 알고리즘 개발
-    - Jetson Nano와 OpenCR 간의 Serial 통신으로 동작 제어 알고리즘 개발
+    - Jetson Nano와 OpenCR 간의 Serial 통신으로 동작 제어 알고리즘 개발.
 
 
 
