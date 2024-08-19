@@ -21,11 +21,11 @@
         - 웹페이지와 연동되어 원격 조종과 실시간 스트리밍이 가능하다.
     
 ### 팀원 역할
-![역할 분담](https://github.com/user-attachments/assets/a12b2013-6f61-44b1-b0e9-862fdb0654f5)
+![역할분담](https://github.com/user-attachments/assets/004abf32-c0f4-4ab8-bd78-0eae1bb0ae00)
 ### 기술 스택
-![기술 스택](https://github.com/user-attachments/assets/f95f5eb8-48b2-41d3-84ac-1bd113a82e8b)
+![기술 스택](https://github.com/user-attachments/assets/c0496e7a-f777-4b47-8f2f-5d4c3234a69b)
 ### 수행 일정
-![수행 일정](https://github.com/user-attachments/assets/3f263f55-ee0a-4e19-a548-bb7e0393cee0)
+![수행일정](https://github.com/user-attachments/assets/acd71c15-ab66-46d7-bf3c-b760a4f6d4e7)
 
 ## 3. 프로젝트 내 역할 : 펌웨어 개발/ 임베디드 개발
 
